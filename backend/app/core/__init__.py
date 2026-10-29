@@ -1,0 +1,1 @@
+# ChemSafe AI Core package
